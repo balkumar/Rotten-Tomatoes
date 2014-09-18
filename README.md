@@ -14,3 +14,4 @@ Rotten-Tomatoes
   5)User can pull to refresh the movie list.
 
   
+Please note that I have uploadd screenshot in Issue as Lice is not working.
